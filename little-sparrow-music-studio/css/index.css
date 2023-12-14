@@ -1,0 +1,60 @@
+/* CSS for little-sparrow-music-studio/index.html 
+Ciara Donlon 
+Design for the Web 
+November 21, 2023 */ 
+
+
+body {
+    background-color:#F5F2DA ;
+
+}
+
+p {
+    text-align: right;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+    
+}
+
+div {
+    background-color: #0E6D95
+}
+
+.phone_number {
+    font-size: 190%;
+    margin-top: 1%;
+    margin-right: 5%;
+    font-family: Helvetica Light, sans-serif;
+    color:#F5F2DA; 
+}
+
+
+.about {
+    margin-top: 4%;
+    margin-left: 8%; 
+    height:20%;
+    width: 20%;
+}
+
+.lessons_and_courses {
+    margin-top: 5%;
+    margin-left: 12%;
+    height: 20%; 
+    width: 20%;
+}
+
+.contact {
+    margin-top: -18%;
+    margin-left: 74%;
+    height: 20%;
+    width: 20%; 
+    margin-bottom: 20%;
+}
+
+.about_text {
+    color:#42210B;
+    text-align: left;
+}
